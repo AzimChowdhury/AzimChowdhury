@@ -1,21 +1,15 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
     <img src="https://i.ibb.co/KLJwJHx/image.png" alt="banner">
 </a>
-<h1 align="center">Hi 👋, I'm Faijul Azim</h1>
-<h3 align="center">Frontend Developer</h3>
 <img align="right"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif"/>
 
 
+- 📄 Visit my resume to Know about my skills and experiences [https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view](https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view)
+- 👨‍💻 You can also visit my portfolio  [https://azim-profile.netlify.app](https://azim-profile.netlify.app)
+- 📫 Contact me here **faijul.azim.360@gmail.com**
 
-- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://azim-profile.netlify.app](https://azim-profile.netlify.app)
 
-- 💬 Ask me about **React.js and Frontend Development**
-
-- 📫 How to reach me **faijul.azim.360@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view](https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +18,46 @@
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azimchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="azimchowdhury" /> </p>
 
+
+<p> <h3>Expertise - </h3>
+• HTML5   
+• CSS3   
+• Bootstrap  
+• TailwindCSS   
+• JavaScript   
+• ES6     
+• React.js   
+• React-Router  
+• React-Bootstrap   
+• DaisyUI   
+</p>
+<p>
+<h3>Comfortable - </h3>
+• Express.js   
+• MongoDB   
+• npm
+• Netlify  
+• Heroku   
+• Firebase    
+• Axios   
+</p>
+
+<p>
+<h3>Familiar - </h3>
+• Node.js   
+• Redux.js   
+• Stripe  
+• JWT   
+  
+</p>
+<p>
+<h3>Tools - </h3>
+• Git   
+• Figma
+• Visual Studio Code  
+• Chrome dev tools   
+  
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
