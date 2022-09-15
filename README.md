@@ -1,14 +1,22 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
-    <img src="https://i.ibb.co/KLJwJHx/image.png" alt="banner">
+    <img src="https://i.ibb.co/72jRdBF/image.png" alt="banner">
 </a>
-<img align="right"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="gif"/>
 
+<a target="_blank" href="https://azim-profile.netlify.app/#Skills">
+    <img src="https://i.ibb.co/QrYq8gg/image.png" alt="banner">
+</a>
 
-- 📄 Visit my resume to Know about my skills and experiences [https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view](https://drive.google.com/file/d/1FetMmmziPhMHTof1L0SCSC5xzVYeL5AO/view)
-- 👨‍💻 You can also visit my portfolio  [https://azim-profile.netlify.app](https://azim-profile.netlify.app)
-- 📫 Contact me here **faijul.azim.360@gmail.com**
+<a target="_blank" href="https://azim-profile.netlify.app/#projects">
+    <img src="https://i.ibb.co/6wpvdwq/image.png" alt="banner">
+</a>
 
+<a target="_blank" href="https://azim-profile.netlify.app/#About">
+    <img src="https://i.ibb.co/QKfKXVv/image.png" alt="banner">
+</a>
 
+<a target="_blank" href="https://azim-profile.netlify.app/#contact">
+    <img src="https://i.ibb.co/kqDVJSN/image.png" alt="banner">
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -16,48 +24,10 @@
 <a href="https://linkedin.com/in/faijul-azim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faijul-azim/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18383049/azim-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18383049/azim-chowdhury" height="30" width="40" /></a>
 </p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azimchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="azimchowdhury" /> </p>
 
 
-<p> <h3>Expertise - </h3>
-• HTML5   
-• CSS3   
-• Bootstrap  
-• TailwindCSS   
-• JavaScript   
-• ES6     
-• React.js   
-• React-Router  
-• React-Bootstrap   
-• DaisyUI   
-</p>
-<p>
-<h3>Comfortable - </h3>
-• Express.js   
-• MongoDB   
-• npm
-• Netlify  
-• Heroku   
-• Firebase    
-• Axios   
-</p>
-
-<p>
-<h3>Familiar - </h3>
-• Node.js   
-• Redux.js   
-• Stripe  
-• JWT   
-  
-</p>
-<p>
-<h3>Tools - </h3>
-• Git   
-• Figma
-• Visual Studio Code  
-• Chrome dev tools   
-  
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
