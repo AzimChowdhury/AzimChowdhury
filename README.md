@@ -3,7 +3,8 @@
 </a>
 
 <a target="_blank" href="https://azim-profile.netlify.app/#Skills">
-    <img src="https://i.ibb.co/QrYq8gg/image.png" alt="banner">
+    <img src="https://i.ibb.co/NVFh8yn/image.png" alt="banner">
+    <img src="https://i.ibb.co/wwdSzx5/image.png" alt="banner">
 </a>
 
 <a target="_blank" href="https://azim-profile.netlify.app/#projects">
