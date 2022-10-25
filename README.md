@@ -1,5 +1,5 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
-    <img src="https://i.ibb.co/72jRdBF/image.png" alt="banner">
+    <img src="https://i.ibb.co/cCkc3dM/image.png" alt="banner">
 </a>
 
 <a target="_blank" href="https://azim-profile.netlify.app/#Skills">
