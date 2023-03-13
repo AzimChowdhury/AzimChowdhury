@@ -1,24 +1,7 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
-<!--     <img src="https://i.ibb.co/cCkc3dM/image.png" alt="banner"> -->
     <img src="https://i.ibb.co/6RGTTdF/azim-profile-netlify-app.png" alt="banner">
 </a>
 
-<a target="_blank" href="https://azim-profile.netlify.app/#Skills">
-    <img src="https://i.ibb.co/NVFh8yn/image.png" alt="banner">
-    <img src="https://i.ibb.co/wwdSzx5/image.png" alt="banner">
-</a>
-
-<a target="_blank" href="https://azim-profile.netlify.app/#projects">
-    <img src="https://i.ibb.co/6wpvdwq/image.png" alt="banner">
-</a>
-
-<a target="_blank" href="https://azim-profile.netlify.app/#About">
-    <img src="https://i.ibb.co/QKfKXVv/image.png" alt="banner">
-</a>
-
-<a target="_blank" href="https://azim-profile.netlify.app/#contact">
-    <img src="https://i.ibb.co/kqDVJSN/image.png" alt="banner">
-</a>
 
 
 <h3 align="left">Connect with me:</h3>
