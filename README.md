@@ -6,11 +6,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/AzimChowdhury2002" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="40" /></a>
+    <a href="https://api.whatsapp.com/send?phone=8801585449223" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" height="30" width="40" /></a>
     
-<a href="https://linkedin.com/in/faijul-azim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faijul-azim/" height="30" width="40" /></a>
     
-<a href="https://stackoverflow.com/users/18383049/azim-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18383049/azim-chowdhury" height="30" width="40" /></a>
+    
+    <a href="https://www.facebook.com/AzimChowdhury2002" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="40" /></a>
+    
+    
+    
+<a href="https://linkedin.com/in/faijul-azim/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faijul-azim/" height="30" width="40" /></a>
+    
+<a href="https://stackoverflow.com/users/18383049/azim-chowdhury" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18383049/azim-chowdhury" height="30" width="40" /></a>
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azimchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="azimchowdhury" /> </p>
