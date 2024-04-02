@@ -1,5 +1,5 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
-    <img src="[https://i.ibb.co/4SG9n5Y/azim-profile-netlify-app.png](https://i.ibb.co/4SG9n5Y/azim-profile-netlify-app.png)" alt="azim-profile.netlify.app" />
+    <img src="https://i.ibb.co/4SG9n5Y/azim-profile-netlify-app.png" alt="azim-profile.netlify.app" />
 </a>
 
 
