@@ -1,5 +1,5 @@
 <a target="_blank" href="https://azim-profile.netlify.app/">
-    <img src="https://ibb.co/2PB7Gb4" alt="banner">
+    <img src="https://i.ibb.co/P48ZqSH/azim-profile-netlify-app.png" alt="banner">
 </a>
 
 
